@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdump978.a CMakeFiles/dump978.dir/dump978/uat_decode.c.o CMakeFiles/dump978.dir/dump978/dump978.c.o CMakeFiles/dump978.dir/dump978/fec.c.o CMakeFiles/dump978.dir/dump978/fec/decode_rs_char.c.o CMakeFiles/dump978.dir/dump978/fec/init_rs_char.c.o CMakeFiles/dump978.dir/uat2json-wrapper.cpp.o
+/usr/bin/ranlib libdump978.a
