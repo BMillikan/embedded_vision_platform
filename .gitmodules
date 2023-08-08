@@ -19,3 +19,6 @@
 [submodule "third_party/v4l2-tools"]
 	path = third_party/v4l2-tools
 	url = https://github.com/llmike/v4l2-tools.git
+[submodule "third_party/third_party/libadsb"]
+	path = third_party/third_party/libadsb
+	url = https://github.com/BMillikan/libadsb
