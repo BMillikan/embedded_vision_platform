@@ -18,6 +18,8 @@ message(STATUS "Base project inc dir: ${BASE_PROJECT_INC_DIR}")
 set( BASE_PROJECT_SRC_DIR ${BASE_PROJECT_DIR}/src )
 message( STATUS "Base project src dir: ${BASE_PROJECT_SRC_DIR}")
 
+list( APPEND CMAKE_MODULE_PATH ${BASE_PROJECT_DIR}/cmake/Modules )
+
 set( BASE_PROJECT_BIN_DIR ${BASE_PROJECT_DIR}/bin )
 set( BASE_PROJECT_UNIT_TEST_DIR ${BASE_PROJECT_DIR}/unit_tests )
 set( BASE_PROJECT_THIRD_PARTY_DIR ${BASE_PROJECT_DIR}/third_party )
