@@ -10,3 +10,9 @@
 [submodule "third_party/3dEarthRenderOpenGL"]
 	path = third_party/3dEarthRenderOpenGL
 	url = git@github.com:BMillikan/3dEarthRenderOpenGL.git
+[submodule "third_party/libseek-thermal"]
+	path = third_party/libseek-thermal
+	url = git@github.com:BMillikan/libseek-thermal.git
+[submodule "third_party/libadsb"]
+	path = third_party/libadsb
+	url = git@github.com:BMillikan/libadsb.git
