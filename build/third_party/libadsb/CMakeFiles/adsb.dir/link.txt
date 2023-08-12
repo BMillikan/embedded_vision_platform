@@ -1,0 +1,2 @@
+/usr/bin/ar qc libadsb.a CMakeFiles/adsb.dir/ADSBListener.cpp.o
+/usr/bin/ranlib libadsb.a

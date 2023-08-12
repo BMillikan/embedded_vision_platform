@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -rdynamic CMakeFiles/NMEAParserTest.dir/main.cpp.o -o NMEAParserTest  ../NMEAParserLib/libNMEAParserLib.a 
