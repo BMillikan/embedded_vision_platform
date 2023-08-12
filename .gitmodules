@@ -10,3 +10,6 @@
 [submodule "third_party/3dEarthRenderOpenGL"]
 	path = third_party/3dEarthRenderOpenGL
 	url = https://github.com/BMillikan/3dEarthRenderOpenGL.git
+[submodule "libseek-thermal"]
+	path = libseek-thermal
+	url = https://github.com/BMillikan/libseek-thermal.git
