@@ -13,3 +13,6 @@
 [submodule "third_party/libseek-thermal"]
 	path = third_party/libseek-thermal
 	url = https://github.com/BMillikan/libseek-thermal.git
+[submodule "third_party/libadsb"]
+	path = third_party/libadsb
+	url = https://github.com/BMillikan/libadsb.git
