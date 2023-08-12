@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/serial_support_example.dir/main.cpp.o -o serial_support_example  ../../src/impl/libserial_support.a 

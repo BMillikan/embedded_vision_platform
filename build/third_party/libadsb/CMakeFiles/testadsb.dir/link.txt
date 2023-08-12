@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wall -Wextra -pedantic -pedantic-errors -pthread -ffunction-sections -fdata-sections -Wl,--exclude-libs,ALL -Werror -Wl,--gc-sections -Wno-ctad-maybe-unsupported -Wno-unknown-pragmas -Wno-padded CMakeFiles/testadsb.dir/main.cpp.o -o testadsb  -Wl,-rpath,/usr/local/lib libadsb.a libdump978.a /usr/local/lib/librtlsdr.so -lpthread 
