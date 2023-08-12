@@ -16,6 +16,3 @@
 [submodule "third_party/3dEarthRenderOpenGL"]
 	path = third_party/3dEarthRenderOpenGL
 	url = https://github.com/BMillikan/3dEarthRenderOpenGL
-[submodule "third_party/libadsb"]
-	path = third_party/libadsb
-	url = https://github.com/BMillikan/libadsb.git
