@@ -10,12 +10,12 @@
 [submodule "third_party/v4l2-tools"]
 	path = third_party/v4l2-tools
 	url = https://github.com/llmike/v4l2-tools.git
-[submodule "third_party/third_party/libadsb"]
-	path = third_party/third_party/libadsb
-	url = https://github.com/BMillikan/libadsb
 [submodule "third_party/SOIL"]
 	path = third_party/SOIL
 	url = https://github.com/burtonageo/SOIL.git
 [submodule "third_party/3dEarthRenderOpenGL"]
 	path = third_party/3dEarthRenderOpenGL
 	url = https://github.com/BMillikan/3dEarthRenderOpenGL
+[submodule "third_party/libadsb"]
+	path = third_party/libadsb
+	url = https://github.com/BMillikan/libadsb.git
