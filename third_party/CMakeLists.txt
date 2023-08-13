@@ -1,5 +1,6 @@
 add_subdirectory(libadsb)
 add_subdirectory(NMEAParser/Software)
+add_subdirectory(3dEarthRenderOpenGL)
 #add_subdirectory(serial)
 #add_subdirectory(boost)
 #add_subdirectory(libseek-thermal)
